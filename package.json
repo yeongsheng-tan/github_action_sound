@@ -4,7 +4,7 @@
   "description": " sound monitor for Github Action, watching and announcing build status.",
   "main": "index.js",
   "engines": {
-    "node": ">=24.12",
+    "node": ">=25",
     "pnpm": ">=10.31"
   },
   "scripts": {
